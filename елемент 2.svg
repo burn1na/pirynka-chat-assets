@@ -1,0 +1,25 @@
+<svg width="59" height="55" viewBox="0 0 59 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_411_507)">
+<path d="M26.1307 5.00027L23.5284 12.5645" stroke="#DDD6C6" stroke-width="2" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.6254 23.9109L17.6736 29.5841" stroke="#DDD6C6" stroke-width="2" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.9231 22.1412L27.2499 20.1895" stroke="#DDD6C6" stroke-width="2" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.9035 16.286L8.33923 13.6837" stroke="#DDD6C6" stroke-width="2" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48.2909 19.0003L52.0123 26.6252" stroke="#DDD6C6" stroke-width="2" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M53.9641 20.952L46.3391 24.6735" stroke="#DDD6C6" stroke-width="2" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.8791 47.4398C36.3403 49.0058 34.2101 49.6933 32.1221 48.9749C30.0324 48.256 28.7761 46.4035 29.3148 44.8375C29.854 43.2703 31.9842 42.5828 34.0738 43.3017C36.1619 44.0201 37.4182 45.8726 36.8791 47.4398Z" stroke="#DDD6C6" stroke-width="2" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M26.1307 5.00027L23.5284 12.5645" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.6254 23.9109L17.6736 29.5841" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.9231 22.1412L27.2499 20.1895" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.9035 16.286L8.33923 13.6837" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48.2909 19.0003L52.0123 26.6252" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M53.9641 20.952L46.3391 24.6735" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.8791 47.4398C36.3403 49.0058 34.2101 49.6933 32.1221 48.9749C30.0324 48.256 28.7761 46.4035 29.3148 44.8375C29.854 43.2703 31.9842 42.5828 34.0738 43.3017C36.1619 44.0201 37.4182 45.8726 36.8791 47.4398Z" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_f_411_507" x="3.33874" y="0" width="55.6255" height="54.2597" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_411_507"/>
+</filter>
+</defs>
+</svg>
