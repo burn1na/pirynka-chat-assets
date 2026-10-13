@@ -1,0 +1,25 @@
+<svg width="40" height="38" viewBox="0 0 40 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_401_23)">
+<path d="M13.7757 7.00537L12.4745 10.7878" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.5228 16.4614L9.54686 19.2982" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.1721 15.5765L14.3353 14.6006" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.66168 12.6484L4.87926 11.3472" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.4232 8.13281L34.2841 11.9456" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.26 9.10876L31.4473 10.9696" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.1277 32.2464C23.8583 33.0294 22.7931 33.3732 21.749 33.014C20.7041 32.6545 20.0759 31.7282 20.3453 30.9451C20.6149 30.1614 21.6801 29.8177 22.725 30.1771C23.7691 30.5363 24.3973 31.4627 24.1277 32.2464Z" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M13.7757 7.00537L12.4745 10.7878" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.5228 16.4614L9.54686 19.2982" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.1721 15.5765L14.3353 14.6006" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.66168 12.6484L4.87926 11.3472" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.4232 8.13281L34.2841 11.9456" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.26 9.10876L31.4473 10.9696" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.1277 32.2464C23.8583 33.0294 22.7931 33.3732 21.749 33.014C20.7041 32.6545 20.0759 31.7282 20.3453 30.9451C20.6149 30.1614 21.6801 29.8177 22.725 30.1771C23.7691 30.5363 24.3973 31.4627 24.1277 32.2464Z" stroke="#DDD6C6" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_f_401_23" x="0.379256" y="2.50537" width="39.3809" height="35.1509" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_401_23"/>
+</filter>
+</defs>
+</svg>
